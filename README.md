@@ -5,7 +5,7 @@
 * Tools - Google Colab , Jupyter Notebooks , Python , Numpy , Pandas , Matplotlib , Seaborn , Sklearn
 ## Code :
 
-The code is availaible in this repository itself.
+The code is availaible at: https://github.com/vsaivivek26677/credit_card_fraud_detection/blob/main/credit_card_fraud_detection_final_project.ipynb (in this repository itself).
 
 ## The Dataset :
 
